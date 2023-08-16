@@ -1,0 +1,13 @@
+/* Common properties shared by both button elements */
+/* Using grouping selectors for practice instead of element selector */
+.first-button, .second-button {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+
+/* Unique properties for FIRST button */
+
+
+
+/* Unique properties for SECOND button */
