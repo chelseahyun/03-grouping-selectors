@@ -5,9 +5,11 @@
     font-family: "Helvetica", "Times New Roman", sans-serif;
 }
 
-
 /* Unique properties for FIRST button */
-
+.first-button {
+    background-color: #000000;
+    color: #ffffff;
+}
 
 
 /* Unique properties for SECOND button */
