@@ -11,5 +11,7 @@
     color: #ffffff;
 }
 
-
 /* Unique properties for SECOND button */
+.second-button {
+    background-color: #ffff00;
+}
